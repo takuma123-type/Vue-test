@@ -1,4 +1,4 @@
-# sample_vue
+#　Vue.js(3) + Vuetify(3 + vite) 
 
 ## Project setup
 ```
