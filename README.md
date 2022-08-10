@@ -1,4 +1,4 @@
-#　Vue.js(3) + Vuetify(3 + vite) 
+#Vue.js(3) + Vuetify(3 + vite) 
 
 ## Project setup
 ```
